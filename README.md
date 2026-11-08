@@ -1,13 +1,10 @@
 # Digital and Public Humanities Portfolio
 
 Welcome to my academic portfolio!
-
 I am a Master's student in Digital and Public Humanities, interested in the intersection of digital technologies, humanities research and cultural heritage.
-
 This repository collects projects and academic work developed during my Master's studies.
 
 ## Areas of Interest
-
 - Digital Humanities and Cultural Heritage
 - Digital Archives and Collections
 - Academic Research
@@ -17,7 +14,6 @@ This repository collects projects and academic work developed during my Master's
 
 
 ## Tools and Technologies
-
 - WordPress
 - Oxygen XML Editor
 - Omeka
@@ -25,15 +21,17 @@ This repository collects projects and academic work developed during my Master's
 - Office suite
 
 ## Projects
-
 This portfolio includes practical digital projects, text encoding exercises, web-based projects, and theoretical research papers.
-## 📁 Web & Digital Humanities Projects
 
+## Web & Digital Humanities Projects
 - **[Crossing Venice – Digital Cultural Heritage Project](./crossing-venice)**
 - **[MoLab DH – Digital Humanities Group Project](./echoes)**
-  
-## 📚 Academic Papers & Research Essays
 
+## Scholarly Digital Editions (TEI / XML)
+- **[TEI XML Text Encodings](./tei-editions)**
+  - Edizioni e trascrizioni digitali in TEI P5 XML della lettera di Abraham Lincoln (1849) e di poesie di Emily Dickinson, con metadati e authority files (VIAF/Wikidata).
+ 
+## Academic Papers & Research Essays
 - **[Art Outside the Museum: Félix González-Torres](./papers/torres-billboard)**
   - Analisi critica dell'opera *Untitled (Billboard of an Empty Bed)* e del rapporto tra spazio privato e pubblico.
 - **[Preserving Digital Art: Nam June Paik's Video Flag](./papers/nam-june-paik)**
