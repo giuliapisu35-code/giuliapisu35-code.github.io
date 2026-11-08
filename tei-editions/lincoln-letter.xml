@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+
+         <titleStmt>
+            <title>Letter from Abraham Lincoln to Joshua Fry Speed, 20 February 1849</title>
+            <author>
+               <forename>Abraham</forename>
+               <surname>Lincoln</surname>
+            </author>
+            <respStmt>
+               <resp>transcription and text encoding</resp>
+               <name>Giulia Pisu</name>
+            </respStmt>
+         </titleStmt>
+
+         <publicationStmt>
+            <p>Academic use only</p>
+         </publicationStmt>
+
+
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Portland</settlement>
+                  <repository>Maine Historical Society</repository>
+                  <collection>John S. H. Fogg autograph collection, (Coll. 420, v. 46)</collection>
+                  <idno type="shelfmark">16159</idno>
+               </msIdentifier>
+
+               <msContents>
+                  <msItem>
+                     <title>Letter from Abraham Lincoln to Joshua Fry Speed</title>
+                     <author>
+                        <forename>Abraham</forename>
+                        <surname>Lincoln</surname>
+                     </author>
+                  </msItem>
+               </msContents>
+
+               <physDesc>
+                  <objectDesc form="letter">
+                     <supportDesc>
+                        <support>
+                           <material>paper</material>
+                           <dimensions type="leaf" unit="cm">
+                              <height>25</height>
+                              <width>20</width>
+                           </dimensions>
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                           <p>Digital reproduction available at: <ref
+                                 target="https://www.mainememory.net/record/16159/image/16159">Maine
+                                 Memory Network</ref>
+                           </p>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="lincoln_a">
+                  <persName>
+                     <forename>Abraham</forename>
+                     <surname>Lincoln</surname>
+                  </persName>
+                  <birth when="1809-02-12"/>
+                  <death when="1865-04-15"/>
+                  <occupation>Lawyer and Whig Politician</occupation>
+                  <note>Member of the U.S. House of Representatives from Illinois (1847–1849).
+                     Author of the letter. Later became the 16th President of the United States
+                     (1861–1865).</note>
+                  <idno type="VIAF">http://viaf.org/viaf/76349832</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q91</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/n79006779</idno>
+               </person>
+
+               <person xml:id="speed_j">
+                  <persName>
+                     <forename>Joshua</forename>
+                     <addName>Fry</addName>
+                     <surname>Speed</surname>
+                  </persName>
+                  <birth when="1814-11-14"/>
+                  <death when="1882-05-29"/>
+                  <occupation>Kentucky politician and businessman</occupation>
+                  <note>Member of the Kentucky House of Representatives from Jefferson County
+                     (1848–1850). Former merchant in Springfield, Illinois, and close personal
+                     friend and confidant of Abraham Lincoln.</note>
+                  <idno type="VIAF">http://viaf.org/viaf/54017483</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3278063</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/nr93004624</idno>
+               </person>
+
+               <person xml:id="speed_m">
+                  <persName>
+                     <forename>Fanny</forename>
+                     <addName>Mrs</addName>
+                     <surname>Speed</surname>
+                  </persName>
+                  <birth when="1820-03-08"/>
+                  <death when="1902-04-09"/>
+                  <note>Wife of Joshua Fry Speed, whom she married in 1842 (referred to as "Mrs.
+                     Speed" in the letter, born Fanny Henning).</note>
+               </person>
+
+               <person xml:id="baker_e">
+                  <persName>
+                     <forename>Edward</forename>
+                     <addName>Dickinson</addName>
+                     <surname>Baker</surname>
+                  </persName>
+                  <birth when="1811-02-24"/>
+                  <death when="1861-10-21"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>U.S. Representative from Illinois (1849–1851), close friend and political
+                     associate of Abraham Lincoln. Former colonel of the 4th Illinois Volunteer
+                     Infantry during the Mexican-American War.</note>
+                  <idno type="VIAF">http://viaf.org/viaf/55424741</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/n79079272</idno>
+               </person>
+
+               <person xml:id="crittenden_j">
+                  <persName>
+                     <forename>John</forename>
+                     <addName>Jordan</addName>
+                     <surname>Crittenden</surname>
+                  </persName>
+                  <birth when="1787-09-10"/>
+                  <death when="1863-07-26"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Governor of Kentucky (1848–1850). Former U.S. Senator from Kentucky and
+                     former Attorney General of the United States. Mentioned in Lincoln's letter in
+                     connection with Edward Dickinson Baker and Joshua Fry Speed.</note>
+                  <idno type="VIAF">http://viaf.org/viaf/1527099</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/n87804945</idno>
+               </person>
+
+               <person xml:id="sweet_m">
+                  <persName>
+                     <forename>Martin</forename>
+                     <forename type="middle">P.</forename>
+                     <surname>Sweet</surname>
+                  </persName>
+                  <birth when="1806-05-28"/>
+                  <death when="1864-03-23"/>
+                  <occupation>Lawyer and Whig Politician</occupation>
+                  <note>Prominent lawyer and Whig political figure in Freeport, Illinois. Twice a
+                     candidate for election to the U.S. House of Representatives, in 1844 and 1850.
+                     In 1849, he sought a diplomatic appointment and was recommended by Abraham
+                     Lincoln.</note>
+               </person>
+
+               <person xml:id="morrison_j">
+                  <persName>
+                     <forename>James</forename>
+                     <forename type="middle">L. D.</forename>
+                     <surname>Morrison</surname>
+                  </persName>
+                  <birth when="1816-04-12"/>
+                  <death when="1888-08-14"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Former U.S. Representative from Illinois and political contender for
+                     appointment to the General Land Office in 1849.</note>
+               </person>
+
+               <person xml:id="browning_o">
+                  <persName>
+                     <forename>Orville</forename>
+                     <addName>Hickman</addName>
+                     <surname>Browning</surname>
+                  </persName>
+                  <birth when="1806-02-10"/>
+                  <death when="1881-08-10"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Illinois lawyer and political associate of Abraham Lincoln. Former member of
+                     the Illinois General Assembly and political contender for appointment to the
+                     General Land Office in 1849. Later served as U.S. Senator from Illinois and
+                     Secretary of the Interior.</note>
+                  <idno type="VIAF">http://viaf.org/viaf/28571779</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q925612</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/n86846242</idno>
+               </person>
+
+               <person xml:id="edwards_c">
+                  <persName>
+                     <forename>Cyrus</forename>
+                     <surname>Edwards</surname>
+                  </persName>
+                  <birth when="1793-06-17"/>
+                  <death when="1877-08-31"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Illinois politician and former member of the Illinois State Senate.
+                     Political contender for appointment to the General Land Office in 1849.</note>
+               </person>
+
+               <person xml:id="mcgaughey_e">
+                  <persName>
+                     <forename>Edward</forename>
+                     <addName>Wilson</addName>
+                     <surname>McGaughey</surname>
+                  </persName>
+                  <birth when="1817-01-16"/>
+                  <death when="1852-08-06"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Former U.S. Representative from Indiana. In 1849, he was a candidate for
+                     appointment to the General Land Office in Washington. Referred to as Mr.
+                     Ganghey in Lincoln's letter..</note>
+               </person>
+
+               <person xml:id="duncan_g">
+                  <persName>
+                     <forename>Garnett</forename>
+                     <surname>Duncan</surname>
+                  </persName>
+                  <birth when="1800-03-02"/>
+                  <death when="1875-05-25"/>
+                  <occupation>Lawyer and Whig politician</occupation>
+                  <note>Former U.S. Representative from Kentucky (1847–1849). Subsequently practised
+                     law in New Orleans, Louisiana. Mentioned by Lincoln in connection with a
+                     recommendation for the Louisville post office.</note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q1494372</idno>
+                  <idno type="LC">http://id.loc.gov/authorities/names/no2008072321</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+
+         <settingDesc>
+            <listPlace>
+               <place xml:id="place_wash">
+                  <placeName>
+                     <settlement type="city">Washington</settlement>
+                     <district type="district">District of Columbia</district>
+                     <country key="US">United States</country>
+                  </placeName>
+                  <location>
+                     <geo>38.8951 -77.0364</geo>
+                  </location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q61</idno>
+                  <note>Origin location where the letter was written by Abraham Lincoln.</note>
+               </place>
+
+               <place xml:id="place_louisville">
+                  <placeName>
+                     <settlement type="city">Louisville</settlement>
+                     <region type="state">Kentucky</region>
+                     <country key="US">United States</country>
+                  </placeName>
+                  <location>
+                     <geo>38.2527 -85.7585</geo>
+                  </location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q43668</idno>
+                  <note>Mentioned in connection with the post office position ("Louisville Port
+                     office").</note>
+               </place>
+
+               <place xml:id="place_frankfort">
+                  <placeName>
+                     <settlement type="city">Frankfort</settlement>
+                     <region type="state">Kentucky</region>
+                     <country key="US">United States</country>
+                  </placeName>
+                  <location>
+                     <geo>38.2009 -84.8733</geo>
+                  </location>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q28603</idno>
+                  <note>Capital of Kentucky; mentioned in postscript regarding newspaper speeches
+                     ("Frankfort papers").</note>
+               </place>
+
+            </listPlace>
+         </settingDesc>
+
+         <langUsage>
+            <language ident="en"> english </language>
+         </langUsage>
+
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Abraham Lincoln</persName>
+               <placeName>Washington</placeName>
+               <date when="1849-02-20" calendar="gregorian">20 February 1849</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Joshua Fry Speed</persName>
+               <placeName evidence="conjecture">Louisville</placeName>
+            </correspAction>
+         </correspDesc>
+
+      </profileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div type="letter">
+            <head>Historical letter of Abraham Lincoln</head>
+
+            <pb n="1r"/>
+            <opener>
+               <dateline>
+                  <placeName ref="#place_wash"><lb n="1"/>Washington</placeName>, <date><lb n="1"
+                     />Feb: 20. 1849.</date>
+               </dateline>
+               <salute><lb n="2"/>Dear <persName ref="speed_j">Speed</persName>:</salute>
+            </opener>
+            <p>
+               <lb n="3"/>Your letter of the <date when="1849-02-13">13th</date> was received
+                  yes=<lb n="4"/>terday –– I showed it to <persName ref="#baker_e">Baker</persName>
+               – I did this because <lb n="5"/>he knew I had written you, and was expecting an <lb
+                  n="6"/>answer; and <add place="above">he</add>still inquired what I had received;
+                  <lb n="7"/>so that I could not well keep it a secret –– <lb n="8"/>Besides this, I
+               knew the contents of the letter <lb n="9"/>would not effect him as you seemed to
+               think <lb n="10"/>it would – He knows he did not make a <lb n="11"/>favorable
+               impression while in Congress, and he <lb n="12"/>and I have talked it over frequently
+               – He <lb n="13"/>tells me to write you that he has too much <lb n="14"/>self-esteem
+               to be put out of humor with himself <lb n="15"/>by the opinion of any man who does
+               not know him <lb n="16"/>better than <persName ref="#crittenden_j">Mr
+                  Crittenden</persName> does; and that he thinks <lb n="17"/>you ought to have known
+               it. The letter will not <lb n="18"/>effect him in the least in regard to either
+                  <persName ref="#crittenden_j">Mr Critten</persName>
+               <lb n="19"/>den or you – He understands you to have acted <lb n="20"/>the part of a
+               discreet friend; and he intends to <lb n="21"/>make <persName ref="#crittenden_j">Mr
+                  Crittenden</persName> think better of him hereafter. <lb n="22"/>I am flattered to
+               learn that <persName ref="#crittenden_j">Mr Crittenden</persName> has any </p>
+            <pb n="1v"/>
+            <p>
+               <lb n="23"/>recollection of me which is not unfavorable; and for <lb n="24"/>the
+               manifestation your kindness towards me, I sincerely <lb n="25"/>thank you. Still
+               there is nothing about me which <lb n="26"/>would authorize me to think of a first
+               class <lb n="27"/>office; and a second class one would not com= <lb n="28"/>pensate
+               me for being snarled at by others who <lb n="29"/>want it for themselves – I believe
+               that, as far as <lb n="30"/>the Whigs in Congress, are concerned, I could have <lb
+                  n="31"/>the Genl Land office almost by common consent; but <lb n="32"/>then
+                  <persName ref="#sweet_m">Sweet</persName>, and <persName ref="#morrison_j">Don:
+                  Morrison</persName>, and <persName ref="#browning_o">Browning</persName>, and <lb
+                  n="33"/><persName ref="#edwards_c">Cyrus Edwards</persName> all want it. And what
+               is worse, <lb n="34"/>while I think I could easily take it myself, I <lb n="35"/>fear
+               I shall have trouble to get it for any <lb n="36"/>other man in Illinois –– The
+               reason is, that <lb n="37"/><persName ref="#mcgaughey_e">Mr Ganghey</persName>, an
+               Indiana ex-member of Congress is here <lb n="38"/>after it; and being personally
+               known, he will be <lb n="39"/>hard to beat by any one who is not –– <lb n="40"
+                  /><persName ref="#baker_e">Baker</persName> showed me your letter, in which you
+               make a passing allusion to the <placeName ref="#place_louisville">Louisville Port</placeName>- <lb n="41"
+               />office- I have told <persName ref="#duncan_g">Garnett Duncan</persName> I am for
+               you- <lb n="42"/>I like to open a letter of yours, and I therefore hope <lb n="43"
+               />you will write me again on the receipt of this –– <lb n="44"/>Give my love , to
+                  <persName ref="#speed_m">Mrs. Speed</persName>
+            </p>
+            <closer>
+               <salute><lb n="45"/>Yours as ever</salute><signed><lb n="46"/><persName
+                     ref="#lincoln_a">A. Lincoln</persName></signed>
+            </closer>
+
+            <pb n="2r"/>
+            <postscript>
+               <p>
+                  <label><lb n="47"/>P.S. </label>
+                  <lb n="47"/>I know I have not read the <placeName ref="#place_frankfort"
+                     >Frankfort</placeName> papers <lb n="48"/>this winter; and consequently do not
+                  know <lb n="49"/>whether you have made a speech – If you have, <lb n="50"/>and it
+                  has been printed, send me a copy. </p>
+               <signed><lb n="51"/><persName ref="#lincoln_a">A.L.</persName></signed>
+
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
