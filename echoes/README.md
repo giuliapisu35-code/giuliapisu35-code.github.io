@@ -25,7 +25,7 @@ The work was developed as a joint effort by a team of 3 members, structuring dig
 
 ## Online Project
 
-- [View the live MoLab DH platform](https://molabdh.altervista.org/)
+- [View the live Echoes of Power platform](https://molabdh.altervista.org/)
 
 ## Academic Context
 
