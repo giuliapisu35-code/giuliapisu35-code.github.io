@@ -1,18 +1,32 @@
 # MoLab DH – Digital Humanities Group Project
 
-🌐 **Live Website:** [molabdh.altervista.org](https://molabdh.altervista.org/)
+![MoLab DH project screenshot](molab-dh.png)
 
 ## Overview
-MoLab DH is a collaborative digital project focused on Digital Humanities applications, cultural heritage, and web presentation. 
+
+This collaborative project focuses on the application of Digital Humanities methodologies to build an interactive digital workspace and cultural platform.
+
+The work was developed as a joint effort by a team of 3 members, structuring digital resources and creating an accessible online environment for research and public engagement.
 
 ## Project Details
-- **Type:** Group Project (3 contributors)
-- **Field:** Digital & Public Humanities
+
 - **Platform:** WordPress / Altervista / Blippar (disconneted)
+- **Field:** Digital and Public Humanities
+- **Topic:** Digital resources and cultural heritage management
+- **Collaboration:** Group Project (3 contributors)
 
-## Team & Contribution
-- Collaborative design, content curation, and platform structuring built in a team of 3 researchers/students.
+## Skills and Methods
 
-## Online Access
-You can explore the live interactive platform here:
-👉 [Visit MoLab DH](https://molabdh.altervista.org/)
+- Collaborative web platform design
+- Digital content curation and management
+- Digital Humanities workflow integration
+- Information architecture and web layout
+- Group project management and teamwork
+
+## Online Project
+
+- [View the live MoLab DH platform](https://molabdh.altervista.org/)
+
+## Academic Context
+
+Developed as part of my Master's Degree in Digital and Public Humanities.
