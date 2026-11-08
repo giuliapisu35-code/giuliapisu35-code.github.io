@@ -25,7 +25,7 @@ This portfolio includes practical digital projects, text encoding exercises, web
 
 ## Web & Digital Humanities Projects
 - **[Crossing Venice – Digital Cultural Heritage Project](./crossing-venice)**
-- **[MoLab DH – Digital Humanities Group Project](./echoes)**
+- **[Echoes of power – Digital Humanities Group Project](./echoes)**
 
 ## Scholarly Digital Editions (TEI / XML)
 - **[TEI XML Text Encodings](./tei-editions)**
