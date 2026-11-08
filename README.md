@@ -31,7 +31,14 @@ This portfolio includes practical digital projects, text encoding exercises, web
 
 - **[Crossing Venice – Digital Cultural Heritage Project](./crossing-venice)**
 - **[MoLab DH – Digital Humanities Group Project](./echoes)**
+  
+## 📚 Academic Papers & Research Essays
 
+- **[Art Outside the Museum: Félix González-Torres](./papers/torres-billboard)**
+  - Analisi critica dell'opera *Untitled (Billboard of an Empty Bed)* e del rapporto tra spazio privato e pubblico.
+- **[Preserving Digital Art: Nam June Paik's Video Flag](./papers/nam-june-paik)**
+  - Case study sulla conservazione della media art e sulle sfide tecnologiche della *Video Flag* (1996).
+    
 More projects and documentation will be added as my academic work progresses.
 
 ## Contact
