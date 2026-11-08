@@ -1,6 +1,6 @@
 # MoLab DH – Digital Humanities Group Project
 
-![MoLab DH project screenshot](molab-dh.png)
+![MoLab DH project screenshot](echoes.png)
 
 ## Overview
 
