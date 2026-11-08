@@ -27,6 +27,10 @@ This repository collects projects and academic work developed during my Master's
 ## Projects
 
 This portfolio includes practical digital projects, text encoding exercises, web-based projects, and theoretical research papers.
+## 📁 Web & Digital Humanities Projects
+
+- **[Crossing Venice – Digital Cultural Heritage Project](./crossing-venice)**
+- **[MoLab DH – Digital Humanities Group Project](./echoes)**
 
 More projects and documentation will be added as my academic work progresses.
 
