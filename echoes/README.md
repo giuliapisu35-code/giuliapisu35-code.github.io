@@ -1,6 +1,6 @@
-# MoLab DH – Digital Humanities Group Project
+# Echoes of Power – Digital Humanities Group Project
 
-![MoLab DH project screenshot](echoes.png)
+![Echoes screenshot](echoes.png)
 
 ## Overview
 
