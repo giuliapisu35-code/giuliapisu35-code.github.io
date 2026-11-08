@@ -21,7 +21,7 @@ This repository collects projects and academic work developed during my Master's
 - WordPress
 - Oxygen XML Editor
 - Omeka
-- Python (basic)
+- Basic of Python 
 - Office suite
 
 ## Projects
